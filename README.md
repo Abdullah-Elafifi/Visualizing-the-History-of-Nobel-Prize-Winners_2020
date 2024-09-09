@@ -1,8 +1,6 @@
 # Visualizing-the-History-of-Nobel-Prize-Winners_2020
 
-<div style="text-align: center;">
-  <img src="[https://miro.medium.com/v2/resize:fit:2000/0*ohoJM_4muwfaHIA9](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fcode%2Fsazidthe1%2Fnobel-prize-analysis&psig=AOvVaw2dQNbKks1jh3gZgODWfpqq&ust=1725997424861000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjX183PtogDFQAAAAAdAAAAABAJ)" width="600" height="466">
-</div>
+<img src="./Nobel_Medal.jpg" alt="Project Logo" width="600" height="400">
 
 Explore a dataset containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
 
