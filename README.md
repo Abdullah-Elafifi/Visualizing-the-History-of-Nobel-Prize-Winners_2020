@@ -1,6 +1,6 @@
 # Visualizing-the-History-of-Nobel-Prize-Winners_2020
 
-<img src="./Nobel_Medal.jpg" alt="Project Logo" width="600" height="400">
+<img src="./NOBEL.png" alt="Project Logo" width="700" height="550">
 
 Explore a dataset containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
 
@@ -18,7 +18,7 @@ Explore a dataset containing a century's worth of Nobel Laureates. Who won? Who 
 
 -  **Programming Language:** Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Notebooks:** Colab, Datalab ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&color=525252) ![Datalab](https://img.shields.io/badge/Datalab-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-- **Data Visualization:** Seaborn,  matplotlib (Pyplot) ![matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) 
+- **Data Visualization:** Seaborn,  Matplotlib (Pyplot) ![matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) 
 -  **Data Manipulation:** Pandas, Numpy ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
